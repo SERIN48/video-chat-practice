@@ -1,0 +1,8 @@
+C:\Users\serin\Desktop\409Lab\LabApp\LabApp\LabApp\obj\Debug\LabApp.csprojAssemblyReference.cache
+C:\Users\serin\Desktop\409Lab\LabApp\LabApp\LabApp\obj\Debug\LabApp.CreateForm.resources
+C:\Users\serin\Desktop\409Lab\LabApp\LabApp\LabApp\obj\Debug\LabApp.JoinForm.resources
+C:\Users\serin\Desktop\409Lab\LabApp\LabApp\LabApp\obj\Debug\LabApp.RoomForm.resources
+C:\Users\serin\Desktop\409Lab\LabApp\LabApp\LabApp\obj\Debug\LabApp.StartForm.resources
+C:\Users\serin\Desktop\409Lab\LabApp\LabApp\LabApp\obj\Debug\LabApp.Properties.Resources.resources
+C:\Users\serin\Desktop\409Lab\LabApp\LabApp\LabApp\obj\Debug\LabApp.csproj.GenerateResource.cache
+C:\Users\serin\Desktop\409Lab\LabApp\LabApp\LabApp\obj\Debug\LabApp.csproj.CoreCompileInputs.cache
